@@ -2,7 +2,7 @@
 
 namespace Jxlwqq\Quill;
 
-use Encore\Admin\Extension;
+use Ladmin\Extension;
 
 class Quill extends Extension
 {

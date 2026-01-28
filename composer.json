@@ -1,22 +1,22 @@
 {
-    "name": "jxlwqq/quill",
-    "description": "quill editor for laravel-admin",
+    "name": "zeiythink/quill",
+    "description": "quill editor for php-panel/laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/quill",
+    "homepage": "https://github.com/ZeiyThink/laravel-ext-quill.git",
     "license": "MIT",
     "authors": [
         {
-            "name": "jxlwqq",
-            "email": "jxlwqq@gmail.com"
+            "name": "zeiythink",
+            "email": "zeiythink@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+         "php": "^8.2",
+      "php-panel/laravel-admin": "^3.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~6.0"
+        "phpunit/phpunit": "^11.5.3"
     },
     "autoload": {
         "psr-4": {

@@ -1,7 +1,7 @@
 # Quill Editor extension for laravel-admin
 
 
-This is a `laravel-admin` extension that integrates [Quill](https://github.com/quilljs/quill) into the `laravel-admin` form.
+This is a `laravel-admin` extension that integrates [Quill](https://github.com/quilljs/quill) into the `php-panel/laravel-admin` form.
 ## Screenshot
 
 <img alt="quill" src="https://user-images.githubusercontent.com/2421068/48820356-89a1f900-ed8f-11e8-864c-5804347fb02e.png">

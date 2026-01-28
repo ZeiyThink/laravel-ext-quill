@@ -3,8 +3,8 @@
 namespace Jxlwqq\Quill;
 
 use Illuminate\Support\ServiceProvider;
-use Encore\Admin\Admin;
-use Encore\Admin\Form;
+use Ladmin\Admin;
+use Ladmin\Form;
 
 class QuillServiceProvider extends ServiceProvider
 {

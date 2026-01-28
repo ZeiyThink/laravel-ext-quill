@@ -9,7 +9,7 @@
 namespace Jxlwqq\Quill;
 
 
-use Encore\Admin\Form\Field;
+use Ladmin\Form\Field;
 
 class Editor extends Field
 {
