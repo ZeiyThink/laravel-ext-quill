@@ -1,6 +1,6 @@
 <?php
 
-namespace Jxlwqq\Quill;
+namespace ZeiyThink\Quill;
 
 use Illuminate\Support\ServiceProvider;
 use Ladmin\Admin;

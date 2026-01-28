@@ -6,7 +6,7 @@
  * Time: 16:53
  */
 
-namespace Jxlwqq\Quill;
+namespace ZeiyThink\Quill;
 
 
 use Ladmin\Form\Field;
